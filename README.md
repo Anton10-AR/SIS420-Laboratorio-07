@@ -1,4 +1,9 @@
 # SIS420-Laboratorio-07
+
+Estudiante: Avendaño Retamozo Juan Antonio
+
+Carrera: Ciencias de la Computación
+
 Aprendizaje no supervisado, semi-supervisado y activo.
 
 ChestMNIST es un dataset de imágenes médicas que forma parte de MedMNIST y está basado en radiografías de tórax del conjunto NIH ChestX-ray14. Consiste en imágenes en escala de grises redimensionadas a 28×28 píxeles, lo que lo hace ligero y útil para experimentación rápida en machine learning.

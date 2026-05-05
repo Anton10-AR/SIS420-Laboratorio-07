@@ -30,5 +30,3 @@ El dataset ChestMNIST tiene 14 etiquetas (enfermedades), y cada una es binaria (
 [URL del dataset](https://zenodo.org/records/10519652)
 
 [URL del cuadernillo](https://colab.research.google.com/drive/1aWQXX5ab14RPTAI9tC7KVS5HPUfHeZyy?usp=sharing)
-
-El dataset original *chestMNIST_64* presentaba problemas de distribución desigual de etiquetas, por tanto se realizó un proceso de análisis y aumento de datos (data augmentation) para subsanar el desbalanceo. [URL del cuadernillo](https://colab.research.google.com/drive/1N0_oViQrA5fI9XghzevURvUkMnH3ZnFO?usp=sharing) / [URL del dataset procesado](https://drive.google.com/file/d/1XltQNArZSMvaDIfPgLF07D_TxWOGOSbY/view?usp=sharing)
